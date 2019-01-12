@@ -5,7 +5,7 @@ The reason I want to show this project is that I know lots of people have not se
 This project will demonstrate how to use the makefile in unix timeshare to execute .java file
 
 Steps to do run the file in unix:
-1. log in the uxix timeshare
+1. log in the unix timeshare
 
 2. use "cd" commend to access the folder wherever you store the files
 
